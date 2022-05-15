@@ -396,7 +396,7 @@ body {
   padding: 0px 0.1rem;
   text-align: center;
 }
-.headline-holder .nj-headline .head-title.style-five .aside-left-five, 
+.headline-holder .nj-headline .head-title.style-five .aside-left-five,
 .headline-holder .nj-headline .head-title.style-five .aside-right-five {
   flex-grow: 1;
   height: 0.01rem;
@@ -464,12 +464,12 @@ body {
 	background-color: #fca121;
 	border-radius: .02rem;
 	color: #fff;
-} 
+}
 .nj-btn.style-two {
 	background-color: transparent;
 	border-radius: .02rem;
 	color: #fca121;
-} 
+}
 /* 按钮 结束 */
 
 
@@ -961,11 +961,11 @@ body {
   border-width: 1px !important;
   padding: 0.06rem 0.12rem 0.07rem !important;
 }
-.clue-form-wrapper .clue-form .input-item.svelte-mmrthh.range.el-input--medium .el-input__inner { 
-	padding: .06rem .12rem .07rem; 
+.clue-form-wrapper .clue-form .input-item.svelte-mmrthh.range.el-input--medium .el-input__inner {
+	padding: .06rem .12rem .07rem;
 }
-.clue-form-wrapper .clue-form .input-item.svelte-mmrthh.range.el-input__inner { 
-	border-width: 1px; padding-left: .12rem; 
+.clue-form-wrapper .clue-form .input-item.svelte-mmrthh.range.el-input__inner {
+	border-width: 1px; padding-left: .12rem;
 }
 .clue-form-wrapper .clue-form .gender-item-wrapper {
   margin-top: 0.08rem;
@@ -1393,7 +1393,7 @@ input[type="number"] {
 
 /* 跳转微信弹框 开始 */
 .starit_dialog {
-	
+
 }
 .weui-mask {
 	position: fixed;
@@ -1477,6 +1477,7 @@ input[type="number"] {
 	border: 1px dashed #d1d1d1;
 }
 .mobile-view{
+  max-width: 100%
 	position: relative;
 	width: 100%;
 	height: 100%;
@@ -1498,7 +1499,7 @@ input[type="number"] {
 .h5edit-area {
     position: absolute;
     top: 0;
-    left: 0; 
+    left: 0;
 }
 #phone {
     user-select: none;
