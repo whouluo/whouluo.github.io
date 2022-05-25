@@ -3220,6 +3220,8 @@ html[data-theme=dark] .ztext a.external:hover, html[data-theme=dark] .ztext a.in
     /* font-size: 1.2em; */
     /* margin: auto 1em; */
     text-align: justify;
+    text-indent: 2em;
+    line-height: 2;
 }
 
 .ztext p.ztext-empty-paragraph {
